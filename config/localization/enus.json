@@ -1,0 +1,138 @@
+{
+	"id": "enus",
+	"navbarMenu": {
+		"labelHome": "HOME",
+		"labelServices": "MY FIELDS",
+		"labelAboutMe": "ABOUT ME",
+		"labelPortifolio": "PROJECTS",
+		"labelExperience": "EXPERIENCE"
+	},
+	"landingPage": {
+		"apresentationText": "Hello World,",
+		"firstTypeText": "the Dev you need...",
+		"secondTypeText": "Nawres Zaidoun",
+		"resumeText": "Nawres, meaning 'seagull' in Arabic, symbolizes my pursuit of knowledge, much like a seagull's mastery of the skies. My passion for exploring the vast, ocean-like depths of mathematics and its critical applications in computer science drives me to seek out solutions to complex problems, mirroring a seagull's relentless exploration along the shore.",
+		"buttonText": "Learn more"
+	},
+	"servicesOffer": {
+		"title": "My Domains",
+		"cards": {
+			"dataAnalytics": {
+				"title": "Data Analytics",
+				"contentText": "Expert in analyzing data to derive actionable insights. Proficient in statistical analysis, predictive modeling, and data visualization. Utilizes SQL, Python, and R for data manipulation and analysis. Experienced in applying machine learning algorithms to solve real-world problems and enhance decision-making processes."
+			},
+			"artificialIntelligence": {
+				"title": "Artificial Intelligence",
+				"contentText": "Specializes in developing AI solutions to automate tasks and solve complex challenges. Skills in machine learning, deep learning, NLP, and computer vision. Utilizes frameworks like TensorFlow and PyTorch to build and implement models that improve efficiency and innovation."
+			},
+			"webDevelopment": {
+				"title": "Web Development",
+				"contentText": "Expertise in front-end and back-end development for creating dynamic, user-centered web applications. Proficient with HTML, CSS, JavaScript, and modern frameworks like Spring boot and Angular. Focuses on responsive design, performance optimization, and cross-browser compatibility."
+			},
+			"devOps": {
+				"title": "DevOps",
+				"contentText": "Skilled in automating and integrating the processes between software development and IT operations. Proficient in CI/CD pipelines, containerization with Docker and orchestration with Kubernetes. Implements infrastructure as code, monitoring, and security practices to enhance collaboration and streamline deployments."
+			}
+		}
+	},
+	"aboutMePage": {
+		"title": "ABOUT ME",
+		"paragraph_one": "I'm an engineering student with a focus on applied mathematics and modeling, equipped with analytical skills for intricate problem-solving. My academic background encompasses probability, statistics and software development, allowing me to develop my knowledge in AI and data science. Beyond this, my keen interest in cutting-edge technology, coupled with my artistic passion, propelled me into the design sphere.",
+		"github_card": {
+			"bio": "🧑‍💻 AI enthusiast",
+			"bio1": "📚 Applied Mathematics and Modeling Engineering student.",
+			"bio2": "PROJECT",
+			"followers": "Followers",
+			"following": "Following",
+			"repos": "Repos"
+		},
+		"pdf": "curriculoENUS",
+		"alt_dev_img": "Nawres Zaidoun"
+	},
+	"portifolioPage": {
+		"title": "PROJECTS",
+		"labelFilter": "ALL",
+		"createdLabel": "Created at",
+		"projects": {
+			"id_1": {
+				"title": "Sign Language Recognition Using Image Processing",
+				"description": "N/A"
+			},
+			"id_2": {
+				"title": "Schätzung der Gebrauchtwagenpreise",
+				"description": "Predicting used car prices in the German market, creating a platform, and integrating a chatbot onto the site, all developed in German."
+			},
+			"id_3": {
+				"title": "Twitter Sentiment Analysis using NLP",
+				"description": "Development of a web application to analyze tweets and classify their sentiment as positive, negative, or neutral using natural language processing."
+			},
+			"id_4": {
+				"title": "Fingerprint Authentication Project with Emotional Feedback",
+				"description": "Creating a web platform for cultural center administrators to track visitors in various rooms, building profiles that include visitor information, notably their fingerprint, which will be recognized through a deep learning model. + Developing a web application to identify and interpret emotional expressions on visitors' faces, capturing their reactions to gather feedback."
+			},
+			"id_5": {
+				"title": "Road Accident Analysis",
+				"description": "Analyzing road accidents by leveraging SQL queries for data extraction and employing data cleaning and visualization techniques, including the use of Power BI. The findings are presented through interactive dashboards for comprehensive insights."
+			},
+			"id_6": {
+				"title": "Facial Emotion Recognition App",
+				"description": "This project aims to implement an emotion detection system that utilizes computer vision and deep learning techniques within a Flask application that allows users to upload images and receive sentiment analysis results."
+			},
+			"id_7": {
+				"title": "Promotions Prediction App for Subscriber Engagement",
+				"description": "This project focuses on predicting promotions for subscribers using machine learning. It involves data preprocessing, analysis, and the development of a Streamlit app."
+			},
+			"id_8": {
+				"title": "Honey Adulteration Detection using Hyperspectral Imaging and Machine Learning",
+				"description": "This project uses hyperspectral camera wavelengths (400nm to 1064nm) and machine learning with GANs in TensorFlow to detect anomalies and identify fraudulent honey by recognizing spectral patterns associated with adulteration."
+			}
+		}
+	},
+	"experiencePage": {
+		"title": "EXPERIENCE",
+		"timeline": {
+			"labelPosition": "Position",
+			"labelTitle": "Field of Study",
+			"labelCompany": "Company",
+			"labelCategory": "Degree",
+			"labelInstitution": "School",
+			"labelProfessionalCourse": "Institution",
+			"labelBachelorDegree": "Engineering degree",
+			"labelExtensionCourse": "Extension course",
+			"labelBachelor": "Bachelor's degree",
+			"fieldofstudy": "Mathematics - Physics",
+			"ensit": " Higher National Engineering School of Tunis",
+			"ipeit": "Tunis Preparatory Engineering Institute",
+			"fieldensit": "Applied Mathematics and Modeling",
+			"bacfield": "Mathematics Bachelor"
+
+
+
+
+		}
+	},
+	"footer": {
+		"labelNavigation": {
+			"title": "NAVIGATION",
+			"labelHome": "Home",
+			"labelServices": "Services",
+			"labelAboutMe": "About me",
+			"labelPortifolio": "Projects",
+			"labelExperience": "Experience"
+		},
+		"labelHost": {
+			"title": "WEBSITE HOSTING"
+		},
+		"labelSourceCode": {
+			"title": "SOURCE CODE"
+		},
+		"labelTechs": {
+			"title": "TECHNOLOGIES"
+		},
+		"labelStats": {
+			"title": "STATISTICS",
+			"stats": "Dashboard"
+		},
+		"labelBuildVersion": "Build"
+	}
+}

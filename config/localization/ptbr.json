@@ -1,0 +1,136 @@
+{
+	"id": "ptbr",
+	"navbarMenu": {
+		"labelHome": "ACCUEIL",
+		"labelServices": "MES DOMAINES",
+		"labelAboutMe": "À PROPOS DE MOI",
+		"labelPortifolio": "PROJETS",
+		"labelExperience": "EXPÉRIENCE"
+	},
+	"landingPage": {
+		"apresentationText": "Bonjour,",
+		"firstTypeText": "le développeur dont vous avez besoin...",
+		"secondTypeText": "Nawres Zaidoun",
+		"resumeText": "Nawres, signifiant 'goéland' en arabe, représente ma soif de connaissance, à l'image de la maîtrise aérienne de cet oiseau. Mon amour pour explorer les vastes domaines des mathématiques et de leurs applications informatiques m'incite à résoudre des problèmes complexes, reflétant ainsi l'exploration infatigable d'un goéland le long du rivage.",
+		"buttonText": "En savoir plus"
+	},
+	"servicesOffer": {
+		"title": "Mes domaines",
+		"cards": {
+			"dataAnalytics": {
+				"title": "Analyse de Données",
+				"contentText": "Experte dans l'analyse de données pour obtenir des insights actionnables, compétente en statistiques, modélisation prédictive et visualisation de données. Utilise SQL, Python et R pour manipuler et analyser les données, expérimentée dans l'application d'algorithmes d'apprentissage automatique pour résoudre des problèmes concrets et améliorer les processus décisionnels."
+			},
+			"artificialIntelligence": {
+			"title": "Intelligence Artificielle",
+			"contentText": "Spécialisée dans le développement de solutions en intelligence artificielle pour automatiser les tâches et relever des défis complexes. Compétences en apprentissage automatique, apprentissage profond, traitement automatique du langage naturel et vision par ordinateur. Utilise des frameworks tels que TensorFlow et PyTorch pour construire et implémenter des modèles visant à améliorer l'efficacité et l'innovation."
+			},
+			"webDevelopment": {
+				"title": "Développement Web",
+				"contentText": "Maîtrise du développement front-end et back-end pour des applications web centrées utilisateur. Utilise HTML, CSS, JavaScript et Spring boot . Concentré sur la conception réactive et l'optimisation de la performance."
+			},
+			"devOps": {
+				"title": "DevOps",
+				"contentText": "Compétente en automatisation et intégration des processus entre le développement logiciel et les opérations IT. Maîtrise les pipelines CI/CD et la conteneurisation avec Docker."
+			}
+		}
+	},
+	"aboutMePage": {
+		"title": "À PROPOS DE MOI",
+		"paragraph_one": "Je suis une étudiante en ingénierie avec une spécialisation en mathématiques appliquées et modélisation, dotée de compétences analytiques pour résoudre des problèmes complexes. Mon parcours académique couvre la probabilité, les statistiques et le développement logiciel, me permettant de développer mes connaissances en IA et en science des données. Au-delà de cela, mon vif intérêt pour les technologies de pointe, associé à ma passion artistique, m'a propulsée dans le domaine du design.",
+		"github_card": {
+			"bio": "🧑‍💻 Passionnée d'IA",
+			"bio1": "📚 Étudiante en génie Mathématiques Appliquées et Modélisation.",
+			"bio2": "PROJET",
+			"followers": "Abonnés",
+			"following": "Abonnements",
+			"repos": "Dépôts"
+		},
+		"pdf": "curriculoPTBR",
+		"alt_dev_img": "Nawres Zaidoun"
+	},
+	"portifolioPage": {
+		"title": "PROJETS",
+		"labelFilter": "TOUS",
+		"createdLabel": "Créé à",
+		"projects": {
+			"id_1": {
+				"title": "Reconnaissance de la langue des signes par traitement d'image",
+				"description": "En cours de développement ..."
+		  	},
+		  	"id_2": {
+				"title": "Estimation des prix des voitures d'occasion",
+				"description": "Prédiction des prix des voitures d'occasion sur le marché allemand, création d'une plateforme et intégration d'un chatbot sur le site, le tout développé en allemand."
+		  	},
+			"id_3": {
+				"title": "Analyse du sentiment sur Twitter utilisant le TAL",
+				"description": "Développement d'une application web pour analyser les tweets et classifier leur sentiment comme positif, négatif ou neutre en utilisant le traitement automatique du langage naturel."
+			},
+			"id_4": {
+				"title": "Projet d'authentification par empreinte digitale avec retour émotionnel",
+				"description": "Création d'une plateforme web pour les administrateurs de centres culturels pour suivre les visiteurs dans différentes salles, construire des profils incluant les informations des visiteurs, notamment leur empreinte digitale, qui sera reconnue à travers un modèle d'apprentissage profond. + Développement d'une application web pour identifier et interpréter les expressions émotionnelles sur les visages des visiteurs, capturant leurs réactions pour recueillir des retours."
+			},
+			"id_5": {
+				"title": "Analyse des accidents de la route",
+				"description": "Analyse des accidents de la route en utilisant des requêtes SQL pour l'extraction de données et en employant des techniques de nettoyage et de visualisation de données, notamment avec l'utilisation de Power BI. Les résultats sont présentés à travers des tableaux de bord interactifs pour une compréhension globale."
+			},
+			"id_6": {
+				"title": "Application de reconnaissance des émotions faciales",
+				"description": "Ce projet vise à mettre en œuvre un système de détection des émotions qui utilise la vision par ordinateur et les techniques d'apprentissage profond au sein d'une application Flask permettant aux utilisateurs de télécharger des images et de recevoir des résultats d'analyse des sentiments."
+			},
+			"id_7": {
+				"title": "Application de prédiction des promotions pour l'engagement des abonnés",
+				"description": "Ce projet se concentre sur la prédiction des promotions pour les abonnés en utilisant l'apprentissage automatique. Il implique le prétraitement des données, l'analyse et le développement d'une application Streamlit."
+			},
+			"id_8": {
+				"title": "Détection de l'adultération du miel en utilisant l'imagerie hyperspectrale et l'apprentissage automatique",
+				"description": "Ce projet utilise les longueurs d'onde d'une caméra hyperspectrale (400nm à 1064nm) et l'apprentissage automatique avec des GANs dans TensorFlow pour détecter les anomalies et identifier le miel frauduleux en reconnaissant les motifs spectraux associés à l'adultération."
+			}
+		}  
+	},
+	"experiencePage": {
+		"title": "EXPÉRIENCE",
+		"timeline": {
+			"labelPosition": "Poste",
+			"labelTitle": "Domaine d'études",
+			"labelCompany": "Entreprise",
+			"labelCategory": "Diplôme",
+			"labelInstitution": "École",
+			"labelProfessionalCourse": "Institution",
+			"labelBachelorDegree": "Diplôme d'Ingénieur",
+			"labelExtensionCourse": "Cours de perfectionnement",
+			"labelBachelor": "Baccalauréat",
+			"fieldofstudy": "mathématiques - physiques",
+			"ensit": " Ecole Nationale Supérieure d'ingénieurs de Tunis",
+			"ipeit": "Institut Préparatoire aux Etudes d'Ingénieurs de Tunis",
+			"fieldensit": "Mathématiques appliquées et modélisation",
+			"bacfield": "Baccalauréat en mathématiques"
+
+
+		}
+	},
+	"footer": {
+		"labelNavigation": {
+			"title": "NAVIGATION",
+			"labelHome": "Accueil",
+			"labelServices": "Services",
+			"labelAboutMe": "À propos de moi",
+			"labelPortifolio": "Projets",
+			"labelExperience": "Expérience"
+		},
+		"labelHost": {
+			"title": "HÉBERGEMENT DU SITE WEB"
+		},
+		"labelSourceCode": {
+			"title": "CODE SOURCE"
+		},
+		"labelTechs": {
+			"title": "TECHNOLOGIES"
+		},
+		"labelStats": {
+			"title": "STATISTIQUES",
+			"stats": "Tableau de bord"
+		},
+		"labelBuildVersion": "Version de construction"
+	}
+}
