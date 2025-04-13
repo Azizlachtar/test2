@@ -126,6 +126,21 @@ export default function TimelinePortifolio(props) {
 				iconStyle={{ background: theme.colors.branding, color: "#fff", boxShadow: `0 0 0 0px ${theme.colors.branding}` }}
 				icon={<WorkIcon />}>
 				<TimelineContent>
+					<h3 style={{ color: theme.colors.backgroundSecondary, backgroundColor: theme.colors.branding, padding: "0 6px 0 6px", borderRadius: "4px" }}> June 2024 - August 2024</h3>
+					<BoldText>
+						{language.experiencePage.timeline.labelCompany}: <span>SAGEMCOM</span>
+					</BoldText>
+					<BoldText>
+						{language.experiencePage.timeline.labelPosition}: <span>AIOps & GenAI Engineering Intern</span>
+					</BoldText>
+				</TimelineContent>
+			</VerticalTimelineElement>
+			<VerticalTimelineElement
+				className="vertical-timeline-element--work"
+				contentStyle={{ color: "#000", borderBottom: `8px solid ${theme.colors.branding}`, boxShadow: "0px 0px 0px 0px #ccc" }}
+				iconStyle={{ background: theme.colors.branding, color: "#fff", boxShadow: `0 0 0 0px ${theme.colors.branding}` }}
+				icon={<WorkIcon />}>
+				<TimelineContent>
 					<h3 style={{ color: theme.colors.backgroundSecondary, backgroundColor: theme.colors.branding, padding: "0 6px 0 6px", borderRadius: "4px" }}> Jul 2023</h3>
 					<BoldText>
 						{language.experiencePage.timeline.labelCompany}: <span>BH LEASING</span>

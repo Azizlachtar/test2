@@ -30,17 +30,17 @@
 				"contentText": "Expertise in front-end and back-end development for creating dynamic, user-centered web applications. Proficient with HTML, CSS, JavaScript, and modern frameworks like Spring boot and Angular. Focuses on responsive design, performance optimization, and cross-browser compatibility."
 			},
 			"devOps": {
-				"title": "DevOps",
-				"contentText": "Skilled in automating and integrating the processes between software development and IT operations. Proficient in CI/CD pipelines, containerization with Docker and orchestration with Kubernetes. Implements infrastructure as code, monitoring, and security practices to enhance collaboration and streamline deployments."
+				"title": "Big Data",
+				"contentText": "Skilled in processing large-scale data with Spark, Hadoop, and Kafka. Proficient in both SQL and NoSQL databases, with experience building efficient and scalable data pipelines."
 			}
 		}
 	},
 	"aboutMePage": {
 		"title": "ABOUT ME",
-		"paragraph_one": "I'm an engineering student with a focus on applied mathematics and modeling, equipped with analytical skills for intricate problem-solving. My academic background encompasses probability, statistics and software development, allowing me to develop my knowledge in AI and data science. Beyond this, my keen interest in cutting-edge technology, coupled with my artistic passion, propelled me into the design sphere.",
+		"paragraph_one": "An engineer who explores the world with the mind of a mathematician and the vision of an artist. Open to AI, big data, DevOps and software development, I embrace every opportunity to expand my knowledge and skills.",
 		"github_card": {
 			"bio": "🧑‍💻 AI enthusiast",
-			"bio1": "📚 Applied Mathematics and Modeling Engineering student.",
+			"bio1": "📚 AI/Data Engineer.",
 			"bio2": "PROJECT",
 			"followers": "Followers",
 			"following": "Following",
@@ -85,6 +85,22 @@
 			"id_8": {
 				"title": "Honey Adulteration Detection using Hyperspectral Imaging and Machine Learning",
 				"description": "This project uses hyperspectral camera wavelengths (400nm to 1064nm) and machine learning with GANs in TensorFlow to detect anomalies and identify fraudulent honey by recognizing spectral patterns associated with adulteration."
+			},
+			"id_9": {
+				"title": "Change Management and Organizational Diagnosis",
+				"description": "This project focuses on diagnosing organizational challenges through the Kübler-Ross change curve, establishing support mechanisms and managing communication and leadership strategies. It also involves overseeing the implementation (pilotage) to facilitate a smooth transition during the change process."
+			},
+			"id_10": {
+				"title": "ML Research Project : Novelty Detection",
+				"description": "This project focuses on Novel Class Discovery (NCD). It examines methods that transfer this knowledge either in one or two steps, employing techniques such as pseudo-labeling, self-supervised learning and contrastive learning. It also explores how NCD relates to fields like clustering and transfer learning to address key challenges in open-world learning and its applications in domains like cybersecurity, bioinformatics and anomaly detection."
+			},
+			"id_11": {
+				"title": "Big Data/Large-Scale Processing Mini-Project : Yelp Reviews Analysis & Sentiment Classification",
+				"description": "This project processes a large-scale Yelp reviews dataset using PySpark for efficient storage, transformation, and analysis. NLP techniques (tokenization, stopword removal, TF-IDF) are applied for sentiment classification with Naïve Bayes, Linear SVC, and Logistic Regression. Folium, Matplotlib, and Seaborn are also used to explore user behavior and business distribution."
+			},
+			"id_12": {
+				"title": "Airbus Hackathon : Reinforcement Learning for Drone Navigation",
+				"description": "This project, developed during a week-long hackathon, focused on optimizing reinforcement learning algorithms for autonomous drone navigation in a dynamic grid environment. It implemented and compared PPO, Q-learning DQN and D* to enhance decision-making and obstacle avoidance, with a custom reward function improving learning efficiency and agent performance."
 			}
 		}
 	},

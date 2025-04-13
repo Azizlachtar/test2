@@ -30,17 +30,17 @@
 				"contentText": "Maîtrise du développement front-end et back-end pour des applications web centrées utilisateur. Utilise HTML, CSS, JavaScript et Spring boot . Concentré sur la conception réactive et l'optimisation de la performance."
 			},
 			"devOps": {
-				"title": "DevOps",
-				"contentText": "Compétente en automatisation et intégration des processus entre le développement logiciel et les opérations IT. Maîtrise les pipelines CI/CD et la conteneurisation avec Docker."
+				"title": "Big Data",
+				"contentText": "Compétente dans le traitement de données massives avec Spark, Hadoop et Kafka. Maîtrise des bases de données SQL et NoSQL, ainsi que des pipelines de données pour une analyse efficace et scalable."
 			}
 		}
 	},
 	"aboutMePage": {
 		"title": "À PROPOS DE MOI",
-		"paragraph_one": "Je suis une étudiante en ingénierie avec une spécialisation en mathématiques appliquées et modélisation, dotée de compétences analytiques pour résoudre des problèmes complexes. Mon parcours académique couvre la probabilité, les statistiques et le développement logiciel, me permettant de développer mes connaissances en IA et en science des données. Au-delà de cela, mon vif intérêt pour les technologies de pointe, associé à ma passion artistique, m'a propulsée dans le domaine du design.",
+		"paragraph_one": "Un ingénieur qui explore le monde avec l’esprit d’un mathématicien et la vision d’un artiste. Ouvert à l’intelligence artificielle, au big data, au DevOps et au développement logiciel, j’embrasse chaque opportunité d’élargir mes connaissances et mes compétences.",
 		"github_card": {
 			"bio": "🧑‍💻 Passionnée d'IA",
-			"bio1": "📚 Étudiante en génie Mathématiques Appliquées et Modélisation.",
+			"bio1": "📚 Ingénieur en Intelligence Artificielle et Données.",
 			"bio2": "PROJET",
 			"followers": "Abonnés",
 			"following": "Abonnements",
@@ -85,6 +85,22 @@
 			"id_8": {
 				"title": "Détection de l'adultération du miel en utilisant l'imagerie hyperspectrale et l'apprentissage automatique",
 				"description": "Ce projet utilise les longueurs d'onde d'une caméra hyperspectrale (400nm à 1064nm) et l'apprentissage automatique avec des GANs dans TensorFlow pour détecter les anomalies et identifier le miel frauduleux en reconnaissant les motifs spectraux associés à l'adultération."
+			},
+			"id_9": {
+				"title": "Gestion du changement et diagnostic organisationnel",
+				"description": "Ce projet porte sur le diagnostic des défis organisationnels à travers la courbe du changement de Kübler-Ross. Il implique la mise en place de mécanismes de soutien, la gestion de la communication et des stratégies de leadership. Le pilotage de la mise en œuvre est également abordé pour faciliter une transition fluide durant le processus de changement."
+			},
+			"id_10": {
+				"title": "Projet de recherche en ML : Détection de nouveauté",
+				"description": "Ce projet s’intéresse à la découverte de classes nouvelles (Novel Class Discovery – NCD). Il étudie les méthodes de transfert de connaissances en une ou deux étapes, en utilisant le pseudo-étiquetage, l’apprentissage auto-supervisé et contrastif. Il explore aussi les liens entre NCD, clustering et transfert de connaissances pour répondre aux défis de l’apprentissage en environnement ouvert, avec des applications en cybersécurité, bioinformatique et détection d’anomalies."
+			},
+			"id_11": {
+				"title": "Mini-projet Big Data / Traitement à grande échelle : Analyse des avis Yelp et classification de sentiments",
+				"description": "Ce projet traite un jeu de données massif d’avis Yelp avec PySpark pour un traitement, un stockage et une analyse efficaces. Des techniques de NLP (tokenisation, suppression des stopwords, TF-IDF) sont utilisées pour la classification des sentiments via Naïve Bayes, Linear SVC et Régression Logistique. L’exploration des données est enrichie par Folium, Matplotlib et Seaborn."
+			},
+			"id_12": {
+				"title": "Hackathon Airbus : Apprentissage par renforcement pour la navigation de drones",
+				"description": "Projet développé lors d’un hackathon d’une semaine visant à optimiser des algorithmes d’apprentissage par renforcement pour la navigation autonome de drones dans un environnement dynamique. Implémentation et comparaison de PPO, Q-learning, DQN et D*, avec une fonction de récompense personnalisée pour améliorer la prise de décision et l’évitement d’obstacles."
 			}
 		}  
 	},
