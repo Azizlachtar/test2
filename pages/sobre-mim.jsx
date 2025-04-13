@@ -324,11 +324,11 @@ export default function SobreMim(props) {
 							<div className="tech-and-cv">
   							<SocialNetworkRowStack />
   									{language.aboutMePage.pdf === 'curriculoENUS' ? (
-    								<ButtonCV href={curriculoENUS} target="_blank" data-splitbee-event="Download CV">
+    								<ButtonCV /*href={curriculoENUS} target="_blank" data-splitbee-event="Download CV"*/>
       									Download CV
     								</ButtonCV>
   									) : language.aboutMePage.pdf === 'curriculoPTBR' ? (
-    								<ButtonCV href={curriculoPTBR} target="_blank" data-splitbee-event="Download CV">
+    								<ButtonCV /*href={curriculoPTBR} target="_blank" data-splitbee-event="Download CV"*/>
 									    Télécharger CV
     								</ButtonCV>
   									) : null}
