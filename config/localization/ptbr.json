@@ -104,9 +104,10 @@
 			"ensit": " Ecole Nationale Supérieure d'ingénieurs de Tunis",
 			"ipeit": "Institut Préparatoire aux Etudes d'Ingénieurs de Tunis",
 			"fieldensit": "Mathématiques appliquées et modélisation",
-			"bacfield": "Baccalauréat en mathématiques"
-
-
+			"bacfield": "Baccalauréat en mathématiques",
+			"labelcentrale" : "Diplôme d'Ingénieur",
+			"centrale": "Centrale Méditerranée",
+			"fieldcentrale": "intelligence artificielle"
 		}
 	},
 	"footer": {

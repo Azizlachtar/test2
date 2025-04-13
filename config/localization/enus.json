@@ -102,6 +102,9 @@
 			"labelBachelor": "Bachelor's degree",
 			"fieldofstudy": "Mathematics - Physics",
 			"ensit": " Higher National Engineering School of Tunis",
+			"centrale" : "Centrale Mediterranean",
+			"labelcentrale" : "Engineering degree",
+			"fieldcentrale" :"Artificial Intelligence",
 			"ipeit": "Tunis Preparatory Engineering Institute",
 			"fieldensit": "Applied Mathematics and Modeling",
 			"bacfield": "Mathematics Bachelor"
