@@ -26,4 +26,4 @@ Project will be available in: [http://localhost:3000](http://localhost:3000)
 
 Feel free
 "# nawres.tech" 
-"# aziz" 
+"# nawres" 
